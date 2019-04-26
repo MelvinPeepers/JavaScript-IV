@@ -70,7 +70,6 @@ function GameObject(attrs) {
   */
 
     // new code CharacterStats
-
   class CharacterStats extends GameObject {
     constructor(characterAttrs) {
       super(characterAttrs);
